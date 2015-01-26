@@ -3,7 +3,7 @@
     "description": "Scrape websites and extract specific information in various format (HTML, JSON, etc) from different sources",
     "require": {
         "php": ">=5.5.9",
-        "guzzlehttp/guzzle": "dev-master",
+        "guzzlehttp/guzzle": "5.0.*@dev",
         "fzaninotto/faker": "dev-master",
         "symfony/css-selector": "dev-master",
         "peekmo/jsonpath": "dev-master"
