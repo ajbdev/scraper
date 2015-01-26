@@ -3,7 +3,7 @@
     "description": "Scrape websites and extract specific information in various format (HTML, JSON, etc) from different sources",
     "require": {
         "php": ">=5.5.9",
-        "guzzlehttp/guzzle": "dev-master",
+        "guzzlehttp/guzzle": "5.0.*",
         "fzaninotto/faker": "dev-master",
         "symfony/css-selector": "2.3.*@dev",
         "peekmo/jsonpath": "dev-master"
@@ -14,7 +14,6 @@
         }
     },
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Andy Baird",
