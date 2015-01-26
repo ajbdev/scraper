@@ -1,8 +1,6 @@
-=Scraper=
+# Scraper
 
 Quickly and easily scrape data from external sources with simple query strings.
-
-Example:
 
 ```php
 use Scraper\Scraper;
