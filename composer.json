@@ -6,7 +6,7 @@
         "guzzlehttp/guzzle": "5.0.*@dev",
         "fzaninotto/faker": "1.5.*@dev",
         "symfony/css-selector": "3.0.*@dev",
-        "peekmo/jsonpath": "dev-master"
+        "peekmo/jsonpath": "2.0.*@dev"
     },
     "autoload": {
         "psr-4": {
