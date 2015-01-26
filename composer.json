@@ -13,6 +13,8 @@
             "Scraper\\": "src/Scraper/"
         }
     },
+    "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Andy Baird",
